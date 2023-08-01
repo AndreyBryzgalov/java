@@ -1,0 +1,14 @@
+Application\ApplicationServiceStaff.class
+Domen\Deportament.class
+Domen\StaffRepository.class
+Application\ApplicationServic.class
+Domen\GenericRepository.class
+Domen\DepartamentRepository.class
+Presentation\Main.class
+Application\ApplicationServiceDepartament.class
+Domen\StaffRepositiry.class
+Config\AppConfig.class
+Domen\DeportamentRepository.class
+Domen\Staff.class
+Application\ApplicationServercDepartament.class
+Application\ApplicationService.class
